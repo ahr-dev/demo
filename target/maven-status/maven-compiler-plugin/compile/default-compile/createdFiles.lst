@@ -1,0 +1,8 @@
+com\labs\insight\controller\UserController.class
+com\labs\insight\service\UserServiceImpl.class
+com\labs\insight\InsightApplication.class
+com\labs\insight\repository\UserResository.class
+com\labs\insight\ServletInitializer.class
+com\labs\insight\service\UserService.class
+com\labs\insight\entity\UserEntity.class
+com\labs\insight\SwaggerConfig.class
